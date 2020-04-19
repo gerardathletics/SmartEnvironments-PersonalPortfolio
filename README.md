@@ -20,3 +20,5 @@ can be reached with an API.
   * I will analyse the twitter and weather datasets and try to find patterns
 and correlations. I will represent the results in plots and some maps elaborated with python.
 ## 3. Knowledge
+* **“Social: I would like to learn and to know how the use of social-media (geo)data can be used to improve the society”**.
+  * By reading and getting informed about it I will write a reflection (about how our twitter data can be used by private and public institutions).
