@@ -15,10 +15,8 @@ can be reached with an API.
   * I will explore the flickr dataset as it is in a database format.
 ## 2. Information
 * **“I would like to learn how to do a sentiment analysis on a text with python”**.
- * I will explore different methodologies to achieve that. Some specific
-libraries and machine learning algorithms can help with the process.
-* **“I would like to get more confident and do nice data visualizations with python”.
- * I will analyse the twitter and weather datasets and try to find patterns
-and correlations. I will represent the results in plots and some maps
-elaborated with python
+  * I will explore different methodologies to achieve that. Some specific libraries and machine learning algorithms can help with the process.
+* **“I would like to get more confident and do nice data visualizations with python”**.
+  * I will analyse the twitter and weather datasets and try to find patterns
+and correlations. I will represent the results in plots and some maps elaborated with python.
 ## 3. Knowledge
