@@ -11,7 +11,7 @@ experience.
 Python.
   * Writing a script to get more tweets. Possibly also other needed datasets
 can be reached with an API.
-* **“I would like to learn how SQL works and be able to do some queries”.
+* **“I would like to learn how SQL works and be able to do some queries”**.
   * I will explore the flickr dataset as it is in a database format.
 ## 2. Information
 
