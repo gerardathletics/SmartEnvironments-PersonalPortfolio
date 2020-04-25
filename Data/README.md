@@ -5,8 +5,8 @@
  * **How?** Writing a clear code to clean effectively the twitter and weather data sets
 (and possible more) with python.
  * **Result**: I elaborated and colaborated with the weather data and twitter data cleaning 
+
 **Goal 2**: **“Learn how to get data with API’s”**. 
  * **Background**: I know the concept, but I’ve never used it in Python.
- * **How?** Writing a script to get more tweets. Possibly also other needed datasets
-can be reached with an API.
+ * **How?** Writing a script to get more tweets. Possibly also other needed datasets can be reached with an API.
 
