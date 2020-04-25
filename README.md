@@ -1,5 +1,5 @@
 # Smart Environments Personal Portfolio
-In this repository ...
+This is my personal portfolio for the [Smart Environments](https://ssc.wur.nl/Handbook/Course/GRS-35306) course (GRS-35306), part of [MSc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) in Wageningen University and Research.
 # Personal Learning Goals
 ## 1. Data
 * **“Learning and improving how to properly and effectively clean data”**, since now
