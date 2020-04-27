@@ -10,6 +10,12 @@
 
 I mainly worked in the weather data cleaning, however, I also colaborated in some parts of the twitter cleaning.
 * [Weather Data Cleaning](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/WEATHER%20DATA%20CLEANING%20-%20Group%202.ipynb)
+  * This code cleans the [weather data set](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Data/KNMI_weather_data_cleaning.csv) from the KNMI.
+  * It changes the name of the columns to make the process more understandable.
+  * It selects useful information and drops the one we are not going to use.
+  * It changes units of some variables (for example from 0.1ºC to ºC).
+  * It converts the hourly data to daily data by making daily averages (for temperature for example), sums (sun hours for example) and other convenient conditions.
+  * From the created daily weather conditions, it creates descriptive labels.
 
 * [Twitter Data Cleaning](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/TWITTER%20CLEANING%20-%20Group%202.ipynb)
 
