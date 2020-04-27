@@ -4,3 +4,9 @@
  * **Background**: I have some experience with maps and plots, specially with GIS softwares like ArcGIS or QGIS. I have not much experience with maps and plots in Python nor ArcGIS Online.  
  * **How?** I will analyse the twitter and weather datasets and try to find patterns and correlations. I will represent the results in plots and some maps elaborated with python.
  
+## Results
+* **Python**
+
+* **QGIS**
+
+* **ArcGIS PRO and ArcGIS Online**
