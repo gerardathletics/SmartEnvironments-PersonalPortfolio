@@ -17,7 +17,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
   <!-- toc -->
   |Title                                    |Map     | Elaboration                                            |
   |----------------------------------------:|:-------| :----------------------------------------------------------------- |
-  |Total tweets by Hexagonal Grid   |[<img src="Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=30% />](Information/Goal-2/Qgis/Tweets_Hex_Grid.png)  | |
+  |Total tweets by Hexagonal Grid   |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=30% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png)| Hexagonal Grid elaborated with MMQIS plugin. Then, "Count points in Polygon". 3D visualization elaborated with Qgis2threejs. |
   <!-- tocstop -->
   
   </details>
