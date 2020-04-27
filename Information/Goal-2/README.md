@@ -17,7 +17,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
   <!-- toc -->
   |Title                                    |Map     | Elaboration                                            |
   |----------------------------------------:|:-------| :----------------------------------------------------------------- |
-  |Total tweets by Hexagonal Grid   |  | |
+  |Total tweets by Hexagonal Grid   |[<img src="Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=30% />](Information/Goal-2/Qgis/Tweets_Hex_Grid.png)  | |
   <!-- tocstop -->
   
   </details>
