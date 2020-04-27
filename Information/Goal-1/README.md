@@ -1,7 +1,7 @@
 # Information: Goal 1
 
 **“I would like to learn how to do a sentiment analysis on a text with python”** 
-  * **Background**: 
+  * **Background**: I've never done a similar analysis. I've read that there are some ML algorithms and Python libraries that can do that.
  * **How?** I will explore different methodologies to achieve that. Some specific libraries and machine learning algorithms can help with the process.
  
  ## **Results**
