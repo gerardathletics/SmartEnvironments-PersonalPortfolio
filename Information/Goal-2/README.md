@@ -8,5 +8,5 @@
 * **Python**
 
 * **QGIS**
-
+  * In QGIS, firstly, I read the output CSV files from the pre-processing and cleaning to geolocalize all the tweets.
 * **ArcGIS PRO and ArcGIS Online**
