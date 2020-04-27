@@ -18,5 +18,9 @@ I mainly worked in the weather data cleaning, however, I also colaborated in som
   * From the created daily weather conditions, it creates descriptive labels. Resulting in this [daily labels](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Data/weatherlabels.csv) data set.
 
 * [Twitter Data Cleaning](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/TWITTER%20CLEANING%20-%20Group%202.ipynb)
+  * Personally, I didn't focus in this dataset but I collaborated in some parts and helped when needed. 
+  * This code contains the preprocessing (cleaning) part of the tweets as well as the sentiment analysis, however, only the first mentioned part applies to this goal.
+  * Basically, this code cleans the tweets, it removes innecessary symbols and irrelevant words for our analysis. It detects the languages and we only keep the english tweets. It also elaborates a "Tokenization", "Stemmization and "Lemmatization". 
+  * The last part of the code elaborates the sentiment analysis, but this is for the information part.
 
 * [Weather and Twitter Merging](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/TWEET-WEATHER%20DATA%20MERGE%20-%20group%202.ipynb)
