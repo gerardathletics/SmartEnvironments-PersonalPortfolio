@@ -12,12 +12,13 @@ I ended up doing a lot of the cartographic work from the different analysis.
 * **QGIS**
   * In QGIS, firstly, I read the output CSV files from the pre-processing and cleaning to geolocalize all the tweets in order to analyse them.
   <details>
-  <summary><b>QGIS Maps</b> (click to expand)</summary>
+    <summary><b>QGIS Maps</b> (click to expand)</summary>
+ 
   <!-- toc -->
   |Title                                    |Map     | Elaboration                                            |
-  |:----------------------------------------|:-------| :----------------------------------------------------------------- |
-
-
+  |----------------------------------------:|:-------| :----------------------------------------------------------------- |
+  |Total tweets by Hexagonal Grid   |  | |
   <!-- tocstop -->
+  
   </details>
 * **ArcGIS PRO and ArcGIS Online**
