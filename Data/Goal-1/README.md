@@ -14,7 +14,6 @@ I mainly worked in the weather data cleaning, however, I also colaborated in som
   * It changes the name of the columns to make the process more understandable.
   * It selects useful information and drops the one we are not going to use.
   * It changes units of some variables (for example from 0.1ºC to ºC).
-  --------------------------------------------
   * It converts the hourly data to daily data by making daily averages (for temperature for example), sums (sun hours for example) and other convenient conditions.
   * From the created daily weather conditions, it creates descriptive labels.
 
