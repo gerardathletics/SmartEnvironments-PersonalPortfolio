@@ -25,4 +25,4 @@ I mainly worked in the weather data cleaning, however, I also colaborated in som
 
 * [Weather and Twitter Merging](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/TWEET-WEATHER%20DATA%20MERGE%20-%20group%202.ipynb)
   * As the name says, this code will combine the two previous datasets in order to analyse it and extract some possible conclusions from the relationship between weather, tweets and locations.
-  * It resulted in this data frame.
+  * It resulted in this [data frame](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Data/tweets_and_weather.rar) (it's in a RAR file because it's too heavy).
