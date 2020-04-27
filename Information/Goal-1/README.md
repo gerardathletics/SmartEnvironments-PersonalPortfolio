@@ -11,4 +11,5 @@ The result is in the [same notebook](https://github.com/gerardathletics/SmartEnv
     * Polarity: determines positivity or negativity of the tweet (-1 is the highes negative score and +1 is the highes positive score.
   * From the polarity, we categorized it into Negative, Neutral and Positive.
   * We stored it to a new csv file.
+ 
   ![Positive, Neutral and Negative Tweets after processing and sentiment analysis](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-1/Data2/PNN_Plot.png)
