@@ -9,3 +9,5 @@ The result is in the [same notebook](https://github.com/gerardathletics/SmartEnv
   * For the analysis we used the TextBlob library. We did two analyses:
     * Subjectivity: determines how subjective is the text (0 score is a fact and +1 is an opinion)
     * Polarity: determines positivity or negativity of the tweet (-1 is the highes negative score and +1 is the highes positive score.
+  * From the polarity, we categorized it into Negative, Neutral and Positive.
+  * We stored it to a new csv file.
