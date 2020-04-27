@@ -15,9 +15,10 @@ I ended up doing a lot of the cartographic work from the different analysis.
     <summary><b>QGIS Maps</b> (click to expand)</summary>
  
   <!-- toc -->
-  |Title                                    |Map     | Elaboration                                            |
-  |----------------------------------------:|:-------| :----------------------------------------------------------------- |
-  |Total tweets by Hexagonal Grid   |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=30% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png)| Hexagonal Grid elaborated with MMQIS plugin. Then, "Count points in Polygon". 3D visualization elaborated with Qgis2threejs. |
+  |                  Title                 |  Map  | Elaboration                                            |
+  |:---------------------------------------:|:-------:| ----------------------------------------------------------------- |
+  |Total tweets by Hexagonal Grid  |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=50% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png)| Hexagonal Grid elaborated with MMQIS plugin. Then, "Count points in Polygon". 3D visualization elaborated with Qgis2threejs. |
+  |Tweets by Building |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/TweetsByBuilding2.png" width=50% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/TweetsByBuilding2.png)|Queried the buildings from QuickOSM plugin. Then, "Count points in Polygon. Used CartoDbDarkMatter background and inversed Viridis color ramp |
   <!-- tocstop -->
   
   </details>
