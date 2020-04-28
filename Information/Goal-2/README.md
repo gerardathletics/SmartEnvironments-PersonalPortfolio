@@ -9,7 +9,9 @@ I ended up doing a lot of the cartographic work from the different analysis.
 
 * **Python**
   * In Python I mostly did graphs and plot visualizations, however I also tried to do some simple maps. 
-  
+  * Some of the visualizations can be found in this [notebook](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Python/TweetsMaps.ipynb).
+  * I also collaborated in the first part of this visualizations [notebook](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Python/ANALYSIS%20AND%20VISUALISATIONS%20-%20Group%202.ipynb) from my group.
+  * Other visualizations can be found in the [Python Folder](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/tree/master/Information/Goal-2/Python).
 * **QGIS**
   * In QGIS, firstly, I read the output CSV files from the pre-processing and cleaning to geolocalize all the tweets in order to analyse them.
   <details>
