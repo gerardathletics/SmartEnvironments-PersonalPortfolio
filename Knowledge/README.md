@@ -13,6 +13,8 @@ I uploaded the final ethics report which groups the different reflections we've 
 ## Conclusions
 I searched for different papers and studies that used social media to quantify different geo-society parameters. I understood that these research results can be applied to improve the society.
 
-Zook, M. (2017). Crowd-sourcing using the smart city: Using big geosocial media metrics in urban governance. Big Data & Society, 4(1).
-Paül, D. (2020). Mapping tourist hot spots in African cities based on Instagram images. International Journal of Tourism Research. 2020;1–10.
-Osorio-Arjona, J. (2019). Social media and urban mobility: Using twitter to calculate home-work travel matrices. Cities 89, 268-280.
+* Zook, M. (2017). **Crowd-sourcing using the smart city: Using big geosocial media metrics in urban governance**. Big Data & Society, 4(1).
+* Paül, D. (2020). **Mapping tourist hot spots in African cities based on Instagram images**. International Journal of Tourism Research. 2020;1–10.
+* Osorio-Arjona, J. (2019). **Social media and urban mobility: Using twitter to calculate home-work travel matrices**. Cities 89, 268-280.
+
+Even though we found some successful examples, we can't say the same for our project, we couldn't find satisfactory results in our analysis, therefore, we don't have clear conclusions about the tweets sentiment, tweets location and weather relationship that we could use in governance. Despite these results, I still think that tweets can be useful for that purpuse, but we would need a more serious and professional research, more experience in analysis and so.
