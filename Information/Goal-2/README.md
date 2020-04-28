@@ -25,5 +25,5 @@ I ended up doing a lot of the cartographic work from the different analysis.
   </details>
   
 * **ArcGIS Pro and ArcGIS Online**
-  * Since we wanted to present our project in an ArcGIS StoryMap, I thought it would be a good oportunity to practise with ArcGIS Pro and ArcGIS Online. 
+  * Since we wanted to present our project in an [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9af24266f96e42e4aae1daf34ad4ac3e) that included cartographical visualizations, I thought it would be a good oportunity to practise with ArcGIS Pro and ArcGIS Online. 
 
