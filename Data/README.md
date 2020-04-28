@@ -10,5 +10,4 @@
 **Goal 2**: **“Learn how to get data with API’s”**. 
  * **Background**: I know the concept, but I’ve never used it in Python.
  * **How?** Writing a script to get more tweets. Possibly also other needed datasets can be reached with an API.
- * **Result**: 
-(*Click "Goal 2" for further details*)
+ * **Result**: I learnt more about API concept, how it works and how to get data with API's. However, because of the project requirements and talking with my group, we agreed that we would not get more data, so I did not do a practical approach to this, but apart from reading different examples on the topic I also checked two python notebooks that Arend sent me.
