@@ -38,6 +38,8 @@ I ended up doing a lot of the cartographic work from the different analysis.
   |Positive and Negative Comparison|[Link to Arcgis Online](https://wur-girs.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=b6473b63861f447e904e19bb3c4da0eb)| Plotting the positive and negative tweets|
   |Positive and Negative, Weather Geo-Means Comparison|[Link to Arcgis Online](https://wur-girs.maps.arcgis.com/home/item.html?id=ebe8f19f73a74ef48e7cd5c382f82ee4)|In ArcGIS-Pro I created the means (and also median) using Mean Center and Median center, from spatial statistics|
   |Clusters and Outliers|[Link to Arcgis Online](https://arcg.is/0DqyS4)|Made this spatial analysis using the Optimized Outlier Analysis|
+  |Tweets by Hex-grid|[Link to Arcgis Online](https://arcg.is/1LWyCP)|Data processed in QGis, exported to ArcGIS Pro|
+  |Amsterdam Landuse Types|[Link to Arcgis Online](https://arcg.is/0DqyS4)|Data from [Amsterdam Open Data](https://data.amsterdam.nl/)|
 
   <!-- tocstop -->
   
