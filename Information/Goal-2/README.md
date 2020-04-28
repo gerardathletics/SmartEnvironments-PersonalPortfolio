@@ -34,7 +34,9 @@ I ended up doing a lot of the cartographic work from the different analysis.
   <!-- toc -->
   |                  Title                 |  Map  | Elaboration                                            |
   |:---------------------------------------:|:-------:| ----------------------------------------------------------------- |
-  |Positive and Negative Tweets by Land Use Type|[Link to Arcgis Online](https://arcg.is/1n15P1)| The same as in QGis|
+  | Tweets by Land Use Type|[Link to Arcgis Online](https://arcg.is/1n15P1)| The same as in QGis|
+  |Positive and Negative Comparison|[Link to Arcgis Online](https://wur-girs.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=b6473b63861f447e904e19bb3c4da0eb)| Plotting the positive and negative tweets|
+
 
   <!-- tocstop -->
   
