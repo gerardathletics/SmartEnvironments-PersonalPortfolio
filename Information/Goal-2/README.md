@@ -8,7 +8,8 @@
 I ended up doing a lot of the cartographic work from the different analysis.
 
 * **Python**
-
+  * In Python I mostly did graphs and plot visualizations, however I also tried to do some simple maps. 
+  
 * **QGIS**
   * In QGIS, firstly, I read the output CSV files from the pre-processing and cleaning to geolocalize all the tweets in order to analyse them.
   <details>
@@ -22,4 +23,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
   <!-- tocstop -->
   
   </details>
-* **ArcGIS PRO and ArcGIS Online**
+  
+* **ArcGIS Pro and ArcGIS Online**
+  * Since we wanted to present our project in an ArcGIS StoryMap, I thought it would be a good oportunity to practise with ArcGIS Pro and ArcGIS Online. 
+
