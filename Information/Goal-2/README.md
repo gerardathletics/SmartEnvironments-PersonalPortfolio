@@ -48,3 +48,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
   </details>
 
 ## Conclusions
+* I think I successfully elaborated some interesting plots and maps. 
+* I have to say, that because of my interests and previous experience I focused more in the cartography part. I did more part in softwares like QGIS and ArcGIS than in Python. It was interesting to see what python can do, however, I found that you need more experience and time to explore the cartographic and plotting libraries to do "beautiful" visualizations. Personally, I find it easier in R or in a Software. I understand though, that if I had more time to experiment and to learn specific libraries I could achieve much better results. 
+* When it comes the GIS software part, even though I had some previous experience, I liked the fact that I experimented with visualizations and new spatial analyses. 
+* It was also nice to experiment with ArcGIS Online. However, it was a bit hard and slow due to the large amount of points.
