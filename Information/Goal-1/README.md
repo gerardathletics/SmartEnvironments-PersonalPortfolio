@@ -15,3 +15,7 @@ The result is in the [same notebook](https://github.com/gerardathletics/SmartEnv
   ![Positive, Neutral and Negative Tweets after processing and sentiment analysis](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-1/Data2/PNN_Plot.png)
 
 ## Conclusions
+* I successfully learnt how to elaborate a sentiment analysis in Python.
+* Thanks to libraries the process is much faster and easier than I expected.
+* Maybe with more complicated algorithms the results would be better, as most of the tweets were Neutral (maybe they really were).
+* It was also hard to clean that large amount of tweets, with symbols, in different languages...
