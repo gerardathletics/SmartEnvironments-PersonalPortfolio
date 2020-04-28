@@ -13,3 +13,5 @@ The result is in the [same notebook](https://github.com/gerardathletics/SmartEnv
   * We stored it to a new csv file.
  
   ![Positive, Neutral and Negative Tweets after processing and sentiment analysis](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-1/Data2/PNN_Plot.png)
+
+## Conclusions
