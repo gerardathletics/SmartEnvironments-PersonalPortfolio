@@ -6,4 +6,4 @@
   
 * **How**: By reading and getting informed about it I will write a reflection (about how our twitter data can be used by private and public institutions).
  
- * **Result**:
+ * **Result**: I wrote and collaborated with my group mates on the ethical assignments which provide different reflections, one of them related to the goal 1. 
