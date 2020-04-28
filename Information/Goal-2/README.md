@@ -1,19 +1,19 @@
 # Information: Goal 2
 
 **“I would like to get more confident and do nice data visualizations (with python if possible)”**. 
- * **Background**: I have some experience with maps and plots, specially with GIS softwares like ArcGIS or QGIS. I have not much experience with maps and plots in Python nor ArcGIS Online.  
+ * **Background**: I have some experience with maps and plots, especially with GIS softwares like ArcGIS or QGIS. I have not much experience with maps and plots in Python nor ArcGIS Online.  
  * **How?** I will analyse the twitter and weather datasets and try to find patterns and correlations. I will represent the results in plots and some maps elaborated with python.
  
 ## Results
-I ended up doing a lot of the cartographic work from the different analysis.
+I ended up doing a lot of the cartographic work from different analysis.
 
 * **Python**
-  * In Python I mostly did graphs and plot visualizations, however I also tried to do some simple maps. 
+  * In Python I mostly did graphs and plot visualizations, however, I also tried to do some simple maps. 
   * Some of the visualizations can be found in this [notebook](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Python/TweetsMaps.ipynb).
   * I also collaborated in the first part of this visualizations [notebook](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Python/ANALYSIS%20AND%20VISUALISATIONS%20-%20Group%202.ipynb) from my group.
   * Other visualizations can be found in the [Python Folder](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/tree/master/Information/Goal-2/Python).
 * **QGIS**
-  * In QGIS, firstly, I read the output CSV files from the pre-processing and cleaning to geolocalize all the tweets in order to analyse them.
+  * In QGIS, firstly, I read the output CSV files from the pre-processing and cleaning to geolocalise all the tweets in order to analyse them.
   <details>
     <summary><b>QGIS Maps</b> (click to expand)</summary>
  
@@ -29,7 +29,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
   </details>
   
 * **ArcGIS Pro and ArcGIS Online**
-  * Since we wanted to present our project in an [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9af24266f96e42e4aae1daf34ad4ac3e) that included cartographical visualizations, I thought it would be a good oportunity to practise with ArcGIS Pro and ArcGIS Online. 
+  * Since we wanted to present our project in an [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9af24266f96e42e4aae1daf34ad4ac3e) that included cartographical visualizations, I thought it would be a good opportunity to practise with ArcGIS Pro and ArcGIS Online. 
   <details>
     <summary><b>ArcGIS Maps</b> (click to expand)</summary>
  
@@ -49,6 +49,6 @@ I ended up doing a lot of the cartographic work from the different analysis.
 
 ## Conclusions
 * I think I successfully elaborated some interesting plots and maps. 
-* I have to say, that because of my interests and previous experience I focused more in the cartography part. I did more part in softwares like QGIS and ArcGIS than in Python. It was interesting to see what python can do, however, I found that you need more experience and time to explore the cartographic and plotting libraries to do "beautiful" visualizations. Personally, I find it easier in R or in a Software. I understand though, that if I had more time to experiment and to learn specific libraries I could achieve much better results. 
-* When it comes the GIS software part, even though I had some previous experience, I liked the fact that I experimented with visualizations and new spatial analyses. 
-* It was also nice to experiment with ArcGIS Online. However, it was a bit hard and slow due to the large amount of points.
+* I have to say, that because of my interests and previous experience I focused more on the cartography part. I did more part in softwares like QGIS and ArcGIS than in Python. It was interesting to see what python can do, however, I found that you need more experience and time to explore the cartographic and plotting libraries to do "beautiful" visualizations. Personally, I find it easier in R or in a Software. I understand though, that if I had more time to experiment and to learn specific libraries I could achieve better results. 
+* When it comes to the GIS software part, even though I had some previous experience, I liked the fact that I experimented with visualizations and new spatial analyses. 
+* It was also nice to experiment with ArcGIS Online. However, it was a bit hard and slow due to the large number of points.
