@@ -26,4 +26,14 @@ I ended up doing a lot of the cartographic work from the different analysis.
   
 * **ArcGIS Pro and ArcGIS Online**
   * Since we wanted to present our project in an [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9af24266f96e42e4aae1daf34ad4ac3e) that included cartographical visualizations, I thought it would be a good oportunity to practise with ArcGIS Pro and ArcGIS Online. 
+  <details>
+    <summary><b>QGIS Maps</b> (click to expand)</summary>
+ 
+  <!-- toc -->
+  |                  Title                 |  Map  | Elaboration                                            |
+  |:---------------------------------------:|:-------:| ----------------------------------------------------------------- |
+  |Positive and Negative Tweets by Land Use Type  |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=50% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png)| Downloaded the land use type from [Amsterdam Open Data](https://data.amsterdam.nl/), then|
 
+  <!-- tocstop -->
+  
+  </details>
