@@ -3,12 +3,12 @@
 **“Learning and improving how to properly and effectively clean data”** 
   * **Background**: Since now in most of the courses we’re given already clean datasets and I don’t have much experience.
  * **How?** Writing a clear code to clean effectively the twitter and weather data sets
-(and possible more) with python.
+(and possibly more) with python.
 
 ## Results
 **Codes**
 
-I mainly worked in the weather data cleaning, however, I also colaborated in some parts of the twitter cleaning.
+I mainly worked in the weather data cleaning, however, I also collaborated in some parts of the twitter cleaning.
 * [Weather Data Cleaning](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/WEATHER%20DATA%20CLEANING%20-%20Group%202.ipynb)
   * This code cleans the [weather data set](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Data/KNMI_weather_data_cleaning.csv) from the KNMI.
   * It changes the name of the columns to make the process more understandable.
@@ -18,9 +18,9 @@ I mainly worked in the weather data cleaning, however, I also colaborated in som
   * From the created daily weather conditions, it creates descriptive labels. Resulting in this [daily labels](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Data/weatherlabels.csv) data set.
 
 * [Twitter Data Cleaning](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/TWITTER%20CLEANING%20-%20Group%202.ipynb)
-  * Personally, I didn't focus in this dataset but I collaborated in some parts and helped when needed. 
-  * This code contains the preprocessing (cleaning) part of the tweets as well as the sentiment analysis, however, only the first mentioned part applies to this goal.
-  * Basically, this code cleans the tweets, it removes innecessary symbols and irrelevant words for our analysis. It detects the languages and we only keep the english tweets. It also elaborates a "Tokenization", "Stemmization and "Lemmatization". 
+  * Personally, I didn't focus in this dataset, but I collaborated in some parts and helped when needed. 
+  * This code contains the preprocessing (cleaning) part of the tweets as well as the sentiment analysis, however, only the first-mentioned part applies to this goal.
+  * Basically, this code cleans the tweets; it removes unnecessary symbols and irrelevant words for our analysis. It detects the languages and we only keep the English tweets. It also elaborates a "Tokenization", "Stemmization and "Lemmatization". 
   * The last part of the code elaborates the sentiment analysis, but this is for the information part.
 
 * [Weather and Twitter Merging](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Codes/TWEET-WEATHER%20DATA%20MERGE%20-%20group%202.ipynb)
@@ -28,3 +28,5 @@ I mainly worked in the weather data cleaning, however, I also colaborated in som
   * It resulted in this [data frame](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Data/Goal-1/Data/tweets_and_weather.rar) (it's in a RAR file because it's too heavy).
 
 ## Conclusions
+Cleaning data is not a piece of cake. It very depends on how is the raw or downloaded data presented. Many factors can influence, like some previous preprocessing, normalisations, etc...
+Personally, I found a bit easier to clean the weather data, because it was cleaner presented when downloaded. The tweeter data, was messier and included much more rows.
