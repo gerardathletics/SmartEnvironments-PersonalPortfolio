@@ -20,6 +20,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
   |:---------------------------------------:|:-------:| ----------------------------------------------------------------- |
   |Total tweets by Hexagonal Grid  |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png" width=50% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/Tweets_Hex_Grid.png)| Hexagonal Grid elaborated with MMQIS plugin. Then, "Count points in Polygon". 3D visualization elaborated with Qgis2threejs. |
   |Tweets by Building |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/TweetsByBuilding2.png" width=50% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/TweetsByBuilding2.png)|Queried the buildings from QuickOSM plugin. Then, "Count points in Polygon. Used CartoDbDarkMatter background and inversed Viridis color ramp |
+  |Positive and Negative Tweets by Land Use Type |[<img src="https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/LanduseType_Tweets.png" width=50% />](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/blob/master/Information/Goal-2/Qgis/LanduseType_Tweets.png)|Downloaded the land use types from [Amsterdam Open Data](https://data.amsterdam.nl/), then I used the tool "Join Attributes by Location" with the tweet points.|
   <!-- tocstop -->
   
   </details>
@@ -27,7 +28,7 @@ I ended up doing a lot of the cartographic work from the different analysis.
 * **ArcGIS Pro and ArcGIS Online**
   * Since we wanted to present our project in an [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9af24266f96e42e4aae1daf34ad4ac3e) that included cartographical visualizations, I thought it would be a good oportunity to practise with ArcGIS Pro and ArcGIS Online. 
   <details>
-    <summary><b>QGIS Maps</b> (click to expand)</summary>
+    <summary><b>ArcGIS Maps</b> (click to expand)</summary>
  
   <!-- toc -->
   |                  Title                 |  Map  | Elaboration                                            |
