@@ -1,6 +1,6 @@
 # Smart Environments Personal Portfolio 
 ## Gerard Porras Cantons
-This is my personal portfolio for the [Smart Environments](https://ssc.wur.nl/Handbook/Course/GRS-35306) course (GRS-35306), part of [MSc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) in Wageningen University and Research.
+This is my personal portfolio for the [Smart Environments](https://ssc.wur.nl/Handbook/Course/GRS-35306) course (GRS-35306), part of [MSc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) at Wageningen University and Research.
 # Personal Learning Goals
 ## 1. [Data](https://github.com/gerardathletics/SmartEnvironments-PersonalPortfolio/tree/master/Data)
 * **“Learning and improving how to properly and effectively clean data”**, since now
